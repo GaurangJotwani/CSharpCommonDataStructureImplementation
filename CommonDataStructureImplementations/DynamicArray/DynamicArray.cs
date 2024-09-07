@@ -120,7 +120,7 @@ public class DynamicArrayImpl : DynamicArray
     }
 }
 
-public static class Test
+/*public static class Test
 {
     static void Main(string[] args)
     {
@@ -151,4 +151,4 @@ public static class Test
         foreach (int num in da) Console.Write(num + " ");
         Console.WriteLine();
     }
-}
+}*/

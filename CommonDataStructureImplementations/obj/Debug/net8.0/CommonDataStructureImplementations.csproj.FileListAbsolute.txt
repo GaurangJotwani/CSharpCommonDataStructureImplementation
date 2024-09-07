@@ -12,3 +12,4 @@
 /Users/goti/RiderProjects/CommonDataStructureImplementations/CommonDataStructureImplementations/obj/Debug/net8.0/CommonDataStructureImplementations.pdb
 /Users/goti/RiderProjects/CommonDataStructureImplementations/CommonDataStructureImplementations/obj/Debug/net8.0/CommonDataStructureImplementations.genruntimeconfig.cache
 /Users/goti/RiderProjects/CommonDataStructureImplementations/CommonDataStructureImplementations/obj/Debug/net8.0/ref/CommonDataStructureImplementations.dll
+/Users/goti/RiderProjects/CommonDataStructureImplementations/CommonDataStructureImplementations/obj/Debug/net8.0/CommonDataStructureImplementations.sourcelink.json
