@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CommonDataStructureImplementations")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c6530312770b9fc342454f7411defe68a422823")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e81b00f8e0798f5b066eaa3bd30d8e0e1e47df3")]
 [assembly: System.Reflection.AssemblyProductAttribute("CommonDataStructureImplementations")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CommonDataStructureImplementations")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

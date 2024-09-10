@@ -229,68 +229,68 @@ public class LinkedList : IEnumerable
 
 public static class Test
 {
-    public static void Main()
-    {
-        var ll = new LinkedList();
-        Debug.Assert(ll.Count == 0);
-        ll.Add(5);
-        ll.Add(10);
-        ll.Add(15);
-        Debug.Assert(ll.Count == 3);
-        ll.PrintFromFront();
-        ll.PrintFromBack();
-        
-        ll.AddFromFront(2);
-        ll.AddFromFront(3);
-        ll.PrintFromFront();
-        Debug.Assert(ll.Count == 5);
-        
-        
-        ll.RemoveFromBack();
-        ll.PrintFromFront();
-        ll.RemoveFromBackIterate();
-        ll.PrintFromFront();
-        ll.RemoveFromFront();
-        ll.PrintFromFront();
-        ll.RemoveFromBack();
-        ll.RemoveFromFront();
-        Debug.Assert(ll.Count == 0);
-        
-        ll.Add(10);
-        ll.Add(15);
-        ll.Add(20);
-        ll.Add(25);
-        ll.PrintFromFront();
-        ll.Reverse();
-        ll.PrintFromFront();
-        ll.Filter((x) => x <= 1);
-        ll.PrintFromFront();
-        ll.Add(10);
-        ll.Add(15);
-        ll.Add(20);
-        ll.Add(25);
-        ll.PrintFromFront();
-        Debug.Assert(ll[2] == 20);
-        Debug.Assert(ll[0] == 10);
-        
-        Debug.Assert(ll[3] == 25);
-        ll[3] = 30;
-        ll.PrintFromFront();
-        foreach (var num in ll)
-        {
-            Console.WriteLine(num);
-        }
-        
-        foreach (var num in ll)
-        {
-            Console.WriteLine(num);
-        }
-        
-        foreach (var num in ll)
-        {
-            Console.WriteLine(num);
-        }
-    }
+    // public static void Main()
+    // {
+    //     var ll = new LinkedList();
+    //     Debug.Assert(ll.Count == 0);
+    //     ll.Add(5);
+    //     ll.Add(10);
+    //     ll.Add(15);
+    //     Debug.Assert(ll.Count == 3);
+    //     ll.PrintFromFront();
+    //     ll.PrintFromBack();
+    //     
+    //     ll.AddFromFront(2);
+    //     ll.AddFromFront(3);
+    //     ll.PrintFromFront();
+    //     Debug.Assert(ll.Count == 5);
+    //     
+    //     
+    //     ll.RemoveFromBack();
+    //     ll.PrintFromFront();
+    //     ll.RemoveFromBackIterate();
+    //     ll.PrintFromFront();
+    //     ll.RemoveFromFront();
+    //     ll.PrintFromFront();
+    //     ll.RemoveFromBack();
+    //     ll.RemoveFromFront();
+    //     Debug.Assert(ll.Count == 0);
+    //     
+    //     ll.Add(10);
+    //     ll.Add(15);
+    //     ll.Add(20);
+    //     ll.Add(25);
+    //     ll.PrintFromFront();
+    //     ll.Reverse();
+    //     ll.PrintFromFront();
+    //     ll.Filter((x) => x <= 1);
+    //     ll.PrintFromFront();
+    //     ll.Add(10);
+    //     ll.Add(15);
+    //     ll.Add(20);
+    //     ll.Add(25);
+    //     ll.PrintFromFront();
+    //     Debug.Assert(ll[2] == 20);
+    //     Debug.Assert(ll[0] == 10);
+    //     
+    //     Debug.Assert(ll[3] == 25);
+    //     ll[3] = 30;
+    //     ll.PrintFromFront();
+    //     foreach (var num in ll)
+    //     {
+    //         Console.WriteLine(num);
+    //     }
+    //     
+    //     foreach (var num in ll)
+    //     {
+    //         Console.WriteLine(num);
+    //     }
+    //     
+    //     foreach (var num in ll)
+    //     {
+    //         Console.WriteLine(num);
+    //     }
+    // }
 }
 
 

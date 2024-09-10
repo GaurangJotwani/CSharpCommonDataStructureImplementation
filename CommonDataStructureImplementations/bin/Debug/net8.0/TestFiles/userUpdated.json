@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "John Doe",
+    "Age": 31,
+    "Occupation": null,
+    "City": null
+  },
+  {
+    "Name": "Jane Smith",
+    "Age": 26,
+    "Occupation": null,
+    "City": null
+  },
+  {
+    "Name": "Alice Johnson",
+    "Age": 29,
+    "Occupation": null,
+    "City": null
+  }
+]

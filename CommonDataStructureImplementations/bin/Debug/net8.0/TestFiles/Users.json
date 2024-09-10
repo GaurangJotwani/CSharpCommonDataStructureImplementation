@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "John Doe",
+    "Age": 30,
+    "Email": "johndoe@example.com",
+    "Skills": ["C#", "Java", "SQL"]
+  },
+  {
+    "Name": "Jane Smith",
+    "Age": 25,
+    "Email": "janesmith@example.com",
+    "Skills": ["Python", "JavaScript", "React"]
+  },
+  {
+    "Name": "Alice Johnson",
+    "Age": 28,
+    "Email": "alicej@example.com",
+    "Skills": ["Go", "Kubernetes", "Docker"]
+  }
+]

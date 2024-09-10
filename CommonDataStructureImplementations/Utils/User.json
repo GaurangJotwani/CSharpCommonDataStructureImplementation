@@ -1,0 +1,23 @@
+{
+  "Name": "Jane Doe",
+  "Age": 28,
+  "Email": "janedoe@example.com",
+  "Address": {
+    "Street": "123 Main St",
+    "City": "Anytown",
+    "State": "CA",
+    "ZipCode": 90210
+  },
+  "PhoneNumbers": [
+    {
+      "Type": "Home",
+      "Number": "555-1234"
+    },
+    {
+      "Type": "Work",
+      "Number": "555-5678"
+    }
+  ],
+  "IsActive": true,
+  "RegisteredDate": "2023-01-01T12:30:00"
+}
